@@ -22,9 +22,9 @@ body {
 
 .navbar {
   position: fixed;
-  margin-top: 0.60%;
-  margin-left: 0.60%;
-  margin-right: 0.60%;
+  margin-top: 2.5%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
   width: 98.75%;
   height: 12.5%;
   backdrop-filter: blur(30px) brightness(75%);
